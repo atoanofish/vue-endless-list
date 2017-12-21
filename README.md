@@ -10,7 +10,7 @@
 >  @param {NUMBER}    :scale:      // 每次加载条数
 
 ## 使用方法
-   
+   ![image](https://github.com/atoanofish/vue-endless-list/blob/master/src/assets/demo.png)
 ## Build Setup
 
 ``` bash
