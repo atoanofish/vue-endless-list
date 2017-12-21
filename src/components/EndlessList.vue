@@ -107,8 +107,9 @@
         }
         .endless-list-item {
             list-style-type: none;
-            line-height: 26px;
-            height: 26px;
+            line-height: 27px;
+            height: 27px;
+
         }
     }
 </style>
