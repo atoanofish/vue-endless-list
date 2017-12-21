@@ -1,10 +1,9 @@
 <!--
  @file vue endless-lit (无尽的列表)
- @author majian04
+ @author majian
  组件配置：
          @param {Array}      :data:Array // 数据
          @param {NUMBER}    :nodeHeight  //内容高度
-         @param {NUMBER}    :bufferSize  //buffer
          @param {NUMBER}    :scale:      // 每次加载条数
 -->
 <template>
