@@ -1,7 +1,16 @@
 # vue-endless-list
 > 解决十万级数据量渲染的VUE组件。
 > 当我们遇到一个需求，需要渲染大量的数据，且不能使用懒加载，我们怎么办？本项目的实现为大家提供了一个解决方案。1000000+数据完美加载，无卡顿，无卡死。
+> 参数
 
+>  @param {Array}     :data:Array // 数据
+
+>  @param {NUMBER}    :nodeHeight  //内容高度
+
+>  @param {NUMBER}    :scale:      // 每次加载条数
+
+## 使用方法
+   
 ## Build Setup
 
 ``` bash
